@@ -1,4 +1,3 @@
-## Hi,
-I'm Shohiab from Bangladesh and I am a Software Engineer and coding instructor by profession.
-
+# Hi, I'm Shohaib
+### I am a Software Engineer. I really enjoy learning languages and frameworks like React And Vue js
 

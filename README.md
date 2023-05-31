@@ -22,11 +22,9 @@
 <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-suhad&show_icons=true&locale=en&layout=compact" alt="md-suhad" /></p>
-
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MD-Suhad&show_icons=true&theme=transparent" /></p>
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-suhad&show_icons=true&locale=en&layout=compact" alt="md-suhad" /></p>
 <!-- <p>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MD-Suhad&show_icons=true&theme=transparent)
 </p> -->

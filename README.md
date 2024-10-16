@@ -2,13 +2,13 @@
 <h2 align="left"> Hi, I'm Shohaib</h2>
 <h4 align="left">I am a Software Engineer. I really enjoy learning languages and frameworks like React And Vue js as well as Work in Node Js.</h4>
 
-- 🌱 I’m currently learning **[Node Js] [Global distribution Architecture]**
+- 🌱 I’m currently learning **[Java,Spring Boot] [Global distribution Architecture]**
 
 - 🔭 I’m currently working on [some of my side Project](:P)
 
 - 👯 I’m looking to collaborate on **anything free and open source**
 
-- 💬 Ask me about **Software Architecture,React,Javascript,**
+- 💬 Ask me about **Software Architecture,Java,Spring Boot,MySQL**
 
 - 📫 How to reach me **suhadcse@gmail.com**
 
@@ -16,9 +16,9 @@
 
 <h4 align="left">Me on Internet</h4>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shohaibsuhad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohaibsuhad/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shohaibsuhad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shohaibsuhad/" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/reverse_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="reverse_infinity" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/reverse_infinity" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reverse_infinity" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/Shohaib_Suhad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="reverse_infinity" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/" height="30" width="40" /></a>
 </p>
 
